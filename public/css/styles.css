@@ -1,0 +1,71 @@
+body {
+	background: #f0f3f5;
+	color: #fff;
+}
+
+header {
+	background: #9aca40;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+.contenedor-main {
+	margin-bottom: 20px;
+}
+
+main {
+	background: #fff;
+	color: #424242;
+	padding: 20px 0
+}
+
+aside {
+	background: #dee5e8;
+	padding: 60px 0;
+	color: #0d47a1;
+}
+
+.widgets {
+	background: #f2f2f2;
+	color: #424242;
+	margin-bottom: 20px;
+}
+
+.widgets > div {
+	background: #2196f3;
+	color: #fff;
+	padding: 20px;
+}
+
+footer {
+	padding: 20px 0;
+	background: #1e1e1e;
+}
+
+/* --- Acerca de --- */
+.acerca-de {
+	padding: 30px;
+	margin-bottom: 40px;
+}
+
+.acerca-de .foto {
+	text-align: center;
+}
+.acerca-de .foto img {
+	margin-bottom: 30px;
+}
+
+.acerca-de .foto .nombre {
+	color: #545454;
+	font-weight: 300;
+	font-size: 18px;
+	letter-spacing:2px;
+}
+
+.titulo {
+	padding: 40px 0;
+	text-align: center;
+	color: #3da5e2;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+}
